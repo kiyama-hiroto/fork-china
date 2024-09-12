@@ -41,3 +41,4 @@ ECR image tag immutable, Image scanning, Encryption
 All services are utilizing defined and recommended security policies ( S3, Instances)
 
 ASG used and has target tracing policy and scale based on alb requests
+
